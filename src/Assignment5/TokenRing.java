@@ -80,3 +80,5 @@ public class TokenRing {
         sc.close();
     }
 }
+
+//Input: 4, 3
