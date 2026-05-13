@@ -1,3 +1,5 @@
+package Assignment2;
+
 import mpi.*;
 
 public class Assignment2 {
